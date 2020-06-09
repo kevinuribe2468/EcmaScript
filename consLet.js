@@ -21,3 +21,4 @@ console.log(animal);
 const colores = ["Amarillo","Azul"];
 colores.push("Rojo");
 console.log(colores)
+// iniciando git
